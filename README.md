@@ -44,7 +44,7 @@ A personal e-book reader for iPhone, built with SwiftUI.
 ### App Icon / Иконка приложения
 
 <div align="center">
-  <img src="./assets/app-icon.png" alt="Chitalka app icon / Иконка приложения Читалка" width="160" />
+  <img src="./assets/app-icon.PNG" alt="Chitalka app icon / Иконка приложения Читалка" width="160" />
 </div>
 
 ### Actual Reading Screen / Реальный экран чтения
@@ -59,7 +59,7 @@ A personal e-book reader for iPhone, built with SwiftUI.
 ### UI Design Reference / Визуальный референс
 
 <div align="center">
-  <img src="./assets/visual-reference.jpg" alt="Visual direction and interface concept, not a real app screenshot / Референс дизайна, не скриншот готового приложения" width="900" />
+  <img src="./assets/visual-reference.PNG" alt="Visual direction and interface concept, not a real app screenshot / Референс дизайна, не скриншот готового приложения" width="900" />
 </div>
 
 > **EN:** This image is a design reference, **not a screenshot or confirmed feature list of the current app**. Some elements and supported formats in the reference may not exist in the actual application.  
