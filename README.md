@@ -41,9 +41,29 @@ A personal e-book reader for iPhone, built with SwiftUI.
 
 ## 📸 Screenshots / Скриншоты
 
-**EN:** App screenshots and a demo will be added here when they are ready for publication.
+### App Icon / Иконка приложения
 
-**RU:** Здесь появятся скриншоты и демонстрация приложения после подготовки материалов.
+<div align="center">
+  <img src="./assets/app-icon.png" alt="Chitalka app icon / Иконка приложения Читалка" width="160" />
+</div>
+
+### Actual Reading Screen / Реальный экран чтения
+
+<div align="center">
+  <img src="./assets/reader-screen.jpg" alt="Actual Chitalka reading screen with page-turn effect / Реальный экран чтения с эффектом перелистывания" width="310" />
+</div>
+
+**EN:** A real screenshot from the current development build showing the dark reading theme and page-turn animation.  
+**RU:** Настоящий скриншот текущей версии приложения: тёмная тема и анимация перелистывания страницы.
+
+### UI Design Reference / Визуальный референс
+
+<div align="center">
+  <img src="./assets/visual-reference.jpg" alt="Visual direction and interface concept, not a real app screenshot / Референс дизайна, не скриншот готового приложения" width="900" />
+</div>
+
+> **EN:** This image is a design reference, **not a screenshot or confirmed feature list of the current app**. Some elements and supported formats in the reference may not exist in the actual application.  
+> **RU:** Это визуальный референс, **не скриншот и не подтверждённый список функций текущего приложения**. Часть показанных элементов и форматов может отсутствовать в реальной версии.
 
 ---
 
